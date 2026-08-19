@@ -33,6 +33,10 @@ const wilian = {
 
 ---
 
+<table>
+<tr>
+<td width="506">
+
 ## Stack principal
 
 **Frontend**
@@ -57,6 +61,15 @@ const wilian = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-FF4154?style=flat-square&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+
+</td>
+<td width="506" align="center">
+
+<img width="400" src="https://github-stats-extended.vercel.app/api/top-langs?username=wilianmorimoto&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</td>
+</tr>
+</table>
 
 ---
 
